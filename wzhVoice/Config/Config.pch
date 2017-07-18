@@ -1,0 +1,20 @@
+//
+//  Config.pch
+//  wzhVoice
+//
+//  Created by wzh on 2017/7/17.
+//  Copyright © 2017年 WZH. All rights reserved.
+//
+
+#ifndef Config_pch
+#define Config_pch
+
+
+#define API_KEY @"zMrRRR511355UmekrXNSxBji"
+#define SECRET_KEY @"6NVCrUzIPjB87OMg7NRbVvfVGICXn0tF"
+#define APPID  @"9897672"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Config_pch */
